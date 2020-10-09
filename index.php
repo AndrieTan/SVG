@@ -4,6 +4,7 @@
         <link rel="stylesheet" type="text/css" href="css/style.css">   
     </head>
     <body>
+        <a href="https://github.com/AndrieTan/SVG">--Go To Repository--></a>
 <!-- Line and Circle -->
 <div>
 <svg width="200" height="300" style="background-color:#ffe02e">
@@ -210,6 +211,4 @@
         <center><p>7. Circle, Rectangle, Polyline, Polygon and Ellipse<p></center>
     </div>
     </body>
-<br>
-        <a href="https://github.com/AndrieTan/SVG">--Go To Repository--></a>
 </html>
